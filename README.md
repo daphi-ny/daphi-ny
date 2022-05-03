@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daphi-ny&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div>
   
- <div align="left">
+ <div align="right">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daphi-ny&layout=compact&langs_count=7&theme=cobalt"/>
   </div>
   
