@@ -1,16 +1,19 @@
-### Hi there 👋
+### OIII!!!!!!!
+- 🌱 Atualmente estou estudando JavaScrip;
+- 📫Email: Daphinysantos@gmail.com;
+- 😄 Pronomes: Ela/Dela;
+- ⚡ Fato engraçado: Sou bem desastrada kkkkkjj.
 
-<!--
-**daphi-ny/daphi-ny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.linkedin.com/in/daphiny-dos-santos-mendes-ba9234182/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daphi-ny&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daphi-ny&layout=compact&langs_count=7&theme=cobalt"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+  
+  
+  
+  
+    
+</div>
