@@ -1,6 +1,6 @@
 ### OIII!!!!!!!
 - 🌱 Atualmente estou estudando JavaScrip;
-- 📫Email: Daphinysantos@gmail.com;
+- 📫Email: Daphinydossantos@gmail.com;
 - 😄 Pronomes: Ela/Dela;
 - ⚡ Fato engraçado: Sou bem desastrada kkkkkjj.
 
