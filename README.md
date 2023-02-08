@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daphi-ny&title_color=F095C2&show_icons=true&icon_color=F095C2&border_color=F095C2)](https://github.com/daphi-ny/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daphi-ny&title_color=F095C2&show_icons=true&icon_color=F095C2&border_color=F095C2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div> 
