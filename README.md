@@ -15,6 +15,6 @@
    <p>:cherry_blossom: Tenho conhecimento em HTML, CSS, JavaScript, React, PHP e outras tecnologias de desenvolvimento web </p>
    <p>:cherry_blossom: Tenho experiência em desenvolvimento de aplicações web, construção de interfaces web e design web </p>
    <p>:cherry_blossom: Sempre estou buscando maneiras de melhorar meu conhecimento e habilidades ao usar as últimas tecnologias e tendências do desenvolvimento web </p>
-   <p>:cherry_blossom: Meu objetivo é criar experiências online incríveis para usuários com interfaces intuitivas e modernas. </p>
+   
   
 </div>
