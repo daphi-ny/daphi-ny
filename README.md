@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/HTML5-F095C2?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-F095C2?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F095C2?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-F095C2?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-F095C2?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
